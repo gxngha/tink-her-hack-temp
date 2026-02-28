@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Hack Mate🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Tech tinkers
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Arya - Vidya Academy of Science and Technology Thrissur
+- Member 2: Ganga - Vidya Academy of Science and Technology Thrissur
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://silver-lolly-100fb8.netlify.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Hackmate helps hackathon participants connect and form teams easily.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Hackathon participants often struggle to find nearby teammates and manage invitations efficiently, making team formation and coordination difficult and time-consuming.]
 
 ### The Solution
-[How are you solving it?]
+[HackMate provides a simple, mobile-friendly platform where users can register, find nearby participants, send and manage hackathon invites, and form teams easily in one place.]
 
 ---
 
@@ -36,20 +36,15 @@
 - Libraries used: [e.g., axios, pandas, JUnit]
 - Tools used: [e.g., VS Code, Git, Docker]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Connect with people]
+- Feature 2: [find nearby participants]
+- Feature 3: [send and manage hackathon invites]
+- Feature 4: [easy team formation and coordination]
 
 ---
 
